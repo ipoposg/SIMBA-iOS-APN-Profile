@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>AllowedProtocolMask</key>
+					<integer>3</integer>
+					<key>AllowedProtocolMaskInRoaming</key>
+					<integer>3</integer>
+					<key>DefaultProtocolMask</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>TPG</string>
+				</dict>
+			</array>
+			<key>AttachAPN</key>
+			<dict>
+				<key>AllowedProtocolMask</key>
+				<integer>3</integer>
+				<key>AuthenticationType</key>
+				<string>PAP</string>
+				<key>Name</key>
+				<string>TPG</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures cellular data settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Cellular</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.cellular.CD97C480-AE4D-4C4D-BB14-8EC8FB634005</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>CD97C480-AE4D-4C4D-BB14-8EC8FB634005</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>SIMBA APN</string>
+	<key>PayloadIdentifier</key>
+	<string>simba-apn0ios</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C226FF25-50A5-4FB1-8E44-DC9DA634A416</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

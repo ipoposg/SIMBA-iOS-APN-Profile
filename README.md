@@ -1,2 +1,4 @@
 # SIMBA iOS APN Profile
- Enables IPv6 for SIMBA Telco users
+ This profile enables IPv6 Connectivity for SIMBA Telco users
+
+This respository is not affiliated with SIMBA Telecom Pte Ltd.
